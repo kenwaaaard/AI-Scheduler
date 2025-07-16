@@ -1,0 +1,6 @@
+{
+    "scheduler_email": "kenward.scheduler@gmail.com",
+    "timezone": "America/Los_Angeles",
+    "min_hour": 8,
+    "max_hour": 19
+}
